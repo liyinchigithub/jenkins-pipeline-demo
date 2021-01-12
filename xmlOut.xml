@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jenkins_demo" tests="1" time="0.053">
+  <testsuite name="demo" id="89759afd-0171-4a95-9dbc-199c4d8e2167" timestamp="2021-01-12T02:23:48.477Z" tests="0" failures="0" errors="0" time="0.053"/>
+</testsuites>

@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "87ea1e19-8bc9-4720-95dd-92d119de4f5e",
+		"name": "jenkins_demo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "demo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:4343/api/mock2?page=1",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "4343",
+					"path": [
+						"api",
+						"mock2"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
